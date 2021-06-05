@@ -1,5 +1,5 @@
 # API CONTROL DE CALIDAD - PROYECTO FACULTAD
-realizado con asp.net Core
+realizado con asp.net Core, entity frramework y sql server para la base de datos
 #### 1
 ![](https://i.postimg.cc/jdsZR4z0/1.png)
 #### 2
